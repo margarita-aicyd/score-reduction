@@ -78,9 +78,9 @@ class ScoreGraph():
                 startedNotes = verticality.startTimespans
                 print(startedNotes)
                 for snote in startedNotes:
-                    # NOTE: snote is a timespan object and not a note
-                    # NOTE: snote.element is either a Note or a Chord object
-                    # NOTE: however, for monophonic parts though, snote.element is a Note object
+                    # TODO: snote is a timespan object and not a note
+                    # TODO: snote.element is either a Note or a Chord object
+                    # TODO: however, for monophonic parts though, snote.element is a Note object
                     # part_idx = part_to_idx[snote.part.partName]
                     part_idx = self.part_to_idx[snote.part.partName]
                     self.G.add_nodes_from([(n_idx, {"note": snote, 
