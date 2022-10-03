@@ -25,11 +25,11 @@
     <score-part id="P1">
       <part-name>Violin I</part-name>
       <part-abbreviation>Vln</part-abbreviation>
-      <score-instrument id="I35646fc211454c9f554cb38e558c1a5c">
+      <score-instrument id="Id28780ee538399e4d243e93fa997a32c">
         <instrument-name>Violin</instrument-name>
         <instrument-abbreviation>Vln</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I35646fc211454c9f554cb38e558c1a5c">
+      <midi-instrument id="Id28780ee538399e4d243e93fa997a32c">
         <midi-channel>1</midi-channel>
         <midi-program>41</midi-program>
       </midi-instrument>
@@ -37,11 +37,11 @@
     <score-part id="P2">
       <part-name>Violin II</part-name>
       <part-abbreviation>Vln</part-abbreviation>
-      <score-instrument id="Idd606cc5fa410529ee931c2535f0510b">
+      <score-instrument id="Iddcf8841d6e6fceab50e62ed87d698f4">
         <instrument-name>Violin</instrument-name>
         <instrument-abbreviation>Vln</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Idd606cc5fa410529ee931c2535f0510b">
+      <midi-instrument id="Iddcf8841d6e6fceab50e62ed87d698f4">
         <midi-channel>4</midi-channel>
         <midi-program>41</midi-program>
       </midi-instrument>
@@ -49,11 +49,11 @@
     <score-part id="P3">
       <part-name>Viola</part-name>
       <part-abbreviation>Vla</part-abbreviation>
-      <score-instrument id="Ib5c4886721bf44b8fe4aaafe623b5dea">
+      <score-instrument id="I30e7f5b7d29a7d317c6c517bbe126dfb">
         <instrument-name>Viola</instrument-name>
         <instrument-abbreviation>Vla</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ib5c4886721bf44b8fe4aaafe623b5dea">
+      <midi-instrument id="I30e7f5b7d29a7d317c6c517bbe126dfb">
         <midi-channel>7</midi-channel>
         <midi-program>42</midi-program>
       </midi-instrument>
@@ -61,11 +61,11 @@
     <score-part id="P4">
       <part-name>Violoncello</part-name>
       <part-abbreviation>Vc</part-abbreviation>
-      <score-instrument id="Ia25d6f40697ff783e06da4023b0d56a5">
+      <score-instrument id="I7924fe31bc18c40efa903f1f3f02674c">
         <instrument-name>Violoncello</instrument-name>
         <instrument-abbreviation>Vc</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ia25d6f40697ff783e06da4023b0d56a5">
+      <midi-instrument id="I7924fe31bc18c40efa903f1f3f02674c">
         <midi-channel>11</midi-channel>
         <midi-program>43</midi-program>
       </midi-instrument>

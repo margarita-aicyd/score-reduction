@@ -31,8 +31,8 @@ def normalized_min_cut(graph):
 
 class ScoreGraph():
     def __init__(self, score,
-                 h_reg = 1, concur_bias = 0.1,
-                 part_bias = 0.1, slur_bias = 0.1):
+                 h_reg = 2.0, concur_bias = 0.4,
+                 part_bias = 0.2, slur_bias = 0.4):
 
         self.score = score
         self.part_to_idx = {part.partName: i for i, part in enumerate(score.parts)}

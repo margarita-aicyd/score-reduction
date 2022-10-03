@@ -19,10 +19,10 @@ score = score_whole.measures(1, 13)
 
 #%%
 # tunable parameters
-h_reg = 1
-concur_bias = 0.1
-part_bias = 0.1
-slur_bias = 0.1
+h_reg = 2.0
+concur_bias = 0.4
+part_bias = 0.2
+slur_bias = 0.4
 
 scoreGraph = ScoreGraph(score, h_reg, concur_bias, part_bias, slur_bias)
 v_partition = normalized_min_cut(scoreGraph.G)
